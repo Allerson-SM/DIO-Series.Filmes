@@ -1,4 +1,4 @@
-namespace DIO.series
+namespace DIO.Series
 {
     public enum Genero
     {

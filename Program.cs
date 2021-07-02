@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DIO.series
+namespace DIO.Series
 {
     class Program
     {

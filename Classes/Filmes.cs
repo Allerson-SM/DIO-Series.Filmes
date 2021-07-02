@@ -2,7 +2,7 @@ using System;
 
 namespace DIO.Series 
 {
-    public class Series : EntidadeBase
+    public class Filmes : EntidadeBase
     {
         private Genero Genero { get; set; }
 
@@ -14,7 +14,7 @@ namespace DIO.Series
 
         private bool Excluido { get; set; }
 
-        public Series(int id, Genero genero, string titulo, string descricao, int ano)
+        public Filmes(int id, Genero genero, string titulo, string descricao, int ano)
         {
             this.Id = id;
             this.Genero = genero;
