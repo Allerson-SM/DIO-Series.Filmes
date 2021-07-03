@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aller\\OneDrive\\Área de Trabalho\\testes\\Bootcamps DIO\\GFT START #2 .NET\\Projetos\\C#\\DIO.series\\DIO.series.csproj": {}
+    "C:\\Users\\aller\\OneDrive\\Documentos\\GitHub\\DIO-Series.Filmes\\DIO.series.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aller\\OneDrive\\Área de Trabalho\\testes\\Bootcamps DIO\\GFT START #2 .NET\\Projetos\\C#\\DIO.series\\DIO.series.csproj": {
+    "C:\\Users\\aller\\OneDrive\\Documentos\\GitHub\\DIO-Series.Filmes\\DIO.series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aller\\OneDrive\\Área de Trabalho\\testes\\Bootcamps DIO\\GFT START #2 .NET\\Projetos\\C#\\DIO.series\\DIO.series.csproj",
+        "projectUniqueName": "C:\\Users\\aller\\OneDrive\\Documentos\\GitHub\\DIO-Series.Filmes\\DIO.series.csproj",
         "projectName": "DIO.series",
-        "projectPath": "C:\\Users\\aller\\OneDrive\\Área de Trabalho\\testes\\Bootcamps DIO\\GFT START #2 .NET\\Projetos\\C#\\DIO.series\\DIO.series.csproj",
+        "projectPath": "C:\\Users\\aller\\OneDrive\\Documentos\\GitHub\\DIO-Series.Filmes\\DIO.series.csproj",
         "packagesPath": "C:\\Users\\aller\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aller\\OneDrive\\Área de Trabalho\\testes\\Bootcamps DIO\\GFT START #2 .NET\\Projetos\\C#\\DIO.series\\obj\\",
+        "outputPath": "C:\\Users\\aller\\OneDrive\\Documentos\\GitHub\\DIO-Series.Filmes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aller\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
